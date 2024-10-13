@@ -1,6 +1,6 @@
 import sqlite3
 import os
-os.chdir("D:\\vscode-works\\PYTHON\\sqlite3") // This is up to your personal workspace
+os.chdir("D:\\vscode-works\\PYTHON\\Library Project") // This is up to your personal workspace
 print(os.getcwd())
 
 con = sqlite3.connect("kutuphane.db")
